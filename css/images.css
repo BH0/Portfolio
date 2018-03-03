@@ -1,0 +1,55 @@
+/*
+img.responsive {
+    /*
+    width: 100%;
+    height: auto;
+    *
+}
+
+img.large {
+    height: 400px;
+    width: auto;
+    border: 2px solid block;
+}
+
+img.responsive {
+    /*
+    width: 100%;
+    height: auto;
+    *
+}
+
+img.large {
+    height: 400px;
+    width: auto;
+    border: 2px solid block;
+}
+
+img.thumbnail {
+    width: 64px;
+    height: 64px;
+}
+
+img.thumbnail:hover {
+    width: 72px;
+    height: 72px;
+    border: 1px solid black
+}
+
+div.thumbnail-gallery {
+    border: 2px solid black;
+    padding: 1% 1% 1% 1%;
+}
+
+div.showcase {
+    padding: 2% 2% 2% 2%;
+    text-align: center;
+}
+
+.image-being-viewed {
+    width: 72px;
+    height: 72px;
+    border: 1px solid black
+}
+
+*/ 

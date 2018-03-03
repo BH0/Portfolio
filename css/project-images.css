@@ -1,0 +1,37 @@
+div.showcase {
+    padding: 2% 2% 2% 2%;
+    text-align: center;
+}
+
+img.large {
+    height: 400px;
+    width: auto;
+    border: 2px solid block;
+}
+
+/*
+div.thumbnail-gallery img {
+    width: 238px;
+    height: 332px;
+    border: 6px solid orange;
+}
+*/
+
+/*
+div.thumbnail-gallery {
+    display: grid;
+}
+*/
+
+div.column-1, div.column-2, div.column-3 {
+    /* display: grid; */
+}
+div.column-1{
+    border: 8px solid yellow;
+}
+div.column-2 {
+    border: 8px solid purple;
+}
+div.column-3 {
+    border: 8px solid green;
+}

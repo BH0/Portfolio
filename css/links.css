@@ -1,0 +1,24 @@
+/* Social Media & More Links Regarding Me (the developer + author) */
+.links a {
+    margin-left: 4px;
+    margin-right: 4px;
+    color: white;
+}
+.links a:hover {
+    font-size: 200%;
+    color: white;
+}
+
+.fa-github {
+    font-size: 150%;
+    text-decoration: none;
+    background-color: grey;
+}
+
+.fa-github:hover {
+    background-color: green;
+}
+
+.bh0-blog {
+    font-size: 90%;
+}
